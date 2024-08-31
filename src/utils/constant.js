@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg"
